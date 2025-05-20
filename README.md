@@ -36,3 +36,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 ### `npm run build` fails to minify
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### netlify
+ [https://682bfefb87aacc96baf3e88d--shimmering-meringue-cba809.netlify.app/](https://682bfefb87aacc96baf3e88d--shimmering-meringue-cba809.netlify.app/)
