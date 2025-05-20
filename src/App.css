@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background: #ff6600;
+    padding: 10px;
+    text-align: center;
+}
+.note {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
