@@ -38,3 +38,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ### netlify
  [https://682bfefb87aacc96baf3e88d--shimmering-meringue-cba809.netlify.app/](https://682bfefb87aacc96baf3e88d--shimmering-meringue-cba809.netlify.app/)
+### Vercel
+ [https://keeperapp-six.vercel.app/](https://keeperapp-six.vercel.app/)
+
