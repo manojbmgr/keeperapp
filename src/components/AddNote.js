@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { PlusCircleFill } from 'react-bootstrap-icons';
 function AddNote({ onAdd }) {
     const [note, setNote] = useState({ title: "", content: "" });
     const [error, setError] = useState("");
@@ -37,7 +38,7 @@ function AddNote({ onAdd }) {
                     required
                 />
                 <div className="text-end">
-                    <button className="btn btn-warning rounded-pill px-3" type="submit">Add</button>
+                    <button className="btn rounded-circle border-none" type="submit"><PlusCircleFill size={42} color="blue" /></button>
                 </div>
             </div>
         </form>
